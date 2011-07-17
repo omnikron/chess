@@ -26,9 +26,9 @@ puts pawns.join(' ')
     puts empty_space.join('')
   end
 puts separator.join('')
-puts pieces.join(' ').upcase
-puts separator.join('')
 puts pawns.join(' ').upcase
+puts separator.join('')
+puts pieces.join(' ').upcase
 puts top.join(')
 
 
