@@ -2,7 +2,7 @@
 
 
 
-pieces = %w(| r | k | b | q | k | b | k | r |)
+pieces = %w(| r | n | b | q | k | b | n | r |)
 pawns = Array.new(8, "| p")
 pawns[8] ='|'
 
@@ -29,7 +29,7 @@ puts separator.join('')
 puts pieces.join(' ').upcase
 puts separator.join('')
 puts pawns.join(' ').upcase
-puts top.join('')
+puts top.join(')
 
 
 # 8.times
