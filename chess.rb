@@ -29,7 +29,7 @@ puts separator.join('')
 puts pawns.join(' ').upcase
 puts separator.join('')
 puts pieces.join(' ').upcase
-puts top.join(')
+puts top.join('')
 
 
 # 8.times
